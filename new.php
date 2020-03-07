@@ -1,3 +1,6 @@
+<!-- File:new.php -->
+<!-- Copyright(C) OldTaoge 2020.All rights reserved.-->
+<!-- By GPL v3.0 -->
 <?php
 include_once("conn/conn.php");
 $type=isset($_POST['type'])?$_POST['type']:(isset($_GET['type'])?$_GET['type']:'');

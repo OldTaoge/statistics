@@ -1,3 +1,6 @@
+<!-- File:display.php -->
+<!-- Copyright(C) OldTaoge 2020.All rights reserved.-->
+<!-- By GPL v3.0 -->
 <?php
 $display=isset($_GET['display'])?urldecode($_GET['display']):'';
 $jumpto=isset($_GET['jumpto'])?urldecode($_GET['jumpto']):'';
