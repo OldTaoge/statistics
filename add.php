@@ -1,3 +1,6 @@
+<!-- File:add.php -->
+<!-- Copyright(C) OldTaoge 2020.All rights reserved.-->
+<!-- By GPL v3.0 -->
 <?php
     include_once("conn/conn.php");
     $class=isset($_POST['class'])?$_POST['class']:(isset($_GET['class'])?$_GET['class']:'');

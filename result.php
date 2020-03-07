@@ -1,3 +1,6 @@
+<!-- File:result.php -->
+<!-- Copyright(C) OldTaoge 2020.All rights reserved.-->
+<!-- By GPL v3.0 -->
 <?php
 $class=isset($_GET['class'])?$_GET['class']:'';
 $subject=isset($_GET['subject'])?$_GET['subject']:'';

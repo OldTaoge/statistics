@@ -1,3 +1,6 @@
+<!-- File:senior.php -->
+<!-- Copyright(C) OldTaoge 2020.All rights reserved.-->
+<!-- By GPL v3.0 -->
 <?php
 $class_p=isset($_POST['class'])?$_POST['class']:'';
 $class=isset($_GET['class'])?$_GET['class']:$class_p;
